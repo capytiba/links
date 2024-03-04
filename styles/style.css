@@ -21,7 +21,7 @@ html {
   font-family: "Neuton", serif;
   font-weight: 400;
   font-style: italic;
-  color: red;
+  color: Red;
 }
 
 
@@ -35,5 +35,5 @@ li {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
-  color: white;
+  color: Brown;
 }
