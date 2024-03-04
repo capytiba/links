@@ -57,9 +57,7 @@ body {
   display: inline-block;
   font-size: 16px;
   transition-duration: 0.4s;
-}
-
-.button1 {
+  
   font-size: 24px;
   border-radius: 4px;
   border: 2px solid White;
