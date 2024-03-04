@@ -27,6 +27,8 @@ html {
 
 h1 {
   font-size: 60px;
+  margin: 0;
+  padding: 20px 0;
   text-align: center;
 }
 
