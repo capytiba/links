@@ -46,3 +46,27 @@ body {
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
+
+.button {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+}
+
+.button1 {
+  font-size: 24px;
+  border-radius: 4px;
+  border: 2px solid White;
+}
+
+.button:hover {
+  background-color: Grey; 
+  color: white;
+}
+
