@@ -16,6 +16,13 @@
   font-style: italic;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
 .button {
   background-color: White; /* Green */
   border: none;
